@@ -1,0 +1,9 @@
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\bin\Debug\projekcik_1.exe.config
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\bin\Debug\projekcik_1.exe
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\bin\Debug\projekcik_1.pdb
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\obj\Debug\projekcik_1.csprojResolveAssemblyReference.cache
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\obj\Debug\projekcik_1.exe
+c:\users\ljung\documents\visual studio 2015\Projects\projekcik_1\projekcik_1\obj\Debug\projekcik_1.pdb
+C:\Users\Konrad\Desktop\projekcik_1\projekcik_1\bin\Debug\projekcik_1.exe.config
+C:\Users\Konrad\Desktop\projekcik_1\projekcik_1\obj\Debug\projekcik_1.exe
+C:\Users\Konrad\Desktop\projekcik_1\projekcik_1\obj\Debug\projekcik_1.pdb
